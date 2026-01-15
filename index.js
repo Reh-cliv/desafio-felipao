@@ -1,5 +1,5 @@
 let herói = "Eleven"
-let valorXp = 11000
+let valorXp = 1000
 let nivel = ""
 
 if(valorXp <= 1000){
